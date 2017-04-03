@@ -1,2 +1,2 @@
 # md-previewer
-FCC react project
+FreeCodeCamp React project
